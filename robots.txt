@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://temanders.github.io/sitemap.html.gz
+Sitemap: https://temanders.github.io/app/sitemap.html.gz
+Sitemap: https://temanders.github.io/assets/sitemap.html.gz
+Sitemap: https://temanders.github.io/css/sitemap.html.gz
+Sitemap: https://temanders.github.io/includes/sitemap.html.gz
+Sitemap: https://temanders.github.io/item/sitemap.html.gz
+Sitemap: https://temanders.github.io/src/sitemap.html.gz
